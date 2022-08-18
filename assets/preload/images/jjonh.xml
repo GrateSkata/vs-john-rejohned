@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jjonh.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="john down0000" x="0" y="0" width="452" height="324" frameX="-8" frameY="-19" frameWidth="480" frameHeight="343"/>
+	<SubTexture name="john down0001" x="0" y="0" width="452" height="324" frameX="-8" frameY="-19" frameWidth="480" frameHeight="343"/>
+	<SubTexture name="john down0002" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0003" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0004" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0005" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0006" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0007" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0008" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0009" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0010" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0011" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0012" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0013" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0014" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0015" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0016" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0017" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0018" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0019" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0020" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0021" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0022" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0023" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0024" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0025" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0026" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0027" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0028" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0029" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0030" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0031" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0032" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0033" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0034" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0035" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0036" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0037" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0038" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0039" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0040" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0041" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0042" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0043" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0044" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0045" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0046" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0047" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0048" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0049" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0050" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0051" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0052" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0053" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0054" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0055" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0056" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0057" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0058" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0059" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0060" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john down0061" x="452" y="0" width="480" height="343"/>
+	<SubTexture name="john left0000" x="932" y="0" width="323" height="360" frameX="0" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0001" x="932" y="0" width="323" height="360" frameX="0" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0002" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0003" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0004" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0005" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0006" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0007" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0008" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0009" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0010" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0011" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0012" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0013" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0014" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0015" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0016" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0017" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0018" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0019" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0020" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0021" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0022" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0023" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0024" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0025" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0026" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0027" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0028" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0029" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0030" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0031" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0032" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0033" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0034" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0035" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0036" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0037" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0038" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0039" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0040" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0041" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0042" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0043" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0044" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0045" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0046" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0047" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0048" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0049" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0050" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0051" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0052" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0053" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0054" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0055" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0056" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0057" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0058" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0059" x="1255" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0060" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john left0061" x="1594" y="0" width="339" height="360" frameX="-8" frameY="0" frameWidth="347" frameHeight="360"/>
+	<SubTexture name="john right0000" x="0" y="360" width="483" height="388"/>
+	<SubTexture name="john right0001" x="0" y="360" width="483" height="388"/>
+	<SubTexture name="john right0002" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0003" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0004" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0005" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0006" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0007" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0008" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0009" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0010" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0011" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0012" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0013" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0014" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0015" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0016" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0017" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0018" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0019" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0020" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0021" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0022" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0023" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0024" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0025" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0026" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0027" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0028" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0029" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0030" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0031" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0032" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0033" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0034" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0035" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0036" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0037" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0038" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0039" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0040" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0041" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0042" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0043" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0044" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0045" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0046" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0047" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0048" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0049" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0050" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0051" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0052" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0053" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0054" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0055" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0056" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0057" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0058" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0059" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0060" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john right0061" x="483" y="360" width="428" height="376" frameX="-14" frameY="-12" frameWidth="483" frameHeight="388"/>
+	<SubTexture name="john up0000" x="911" y="360" width="324" height="363" frameX="-2" frameY="0" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0001" x="1235" y="360" width="324" height="363" frameX="-2" frameY="0" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0002" x="1559" y="360" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0003" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0004" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0005" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0006" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0007" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0008" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0009" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0010" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0011" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0012" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0013" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0014" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0015" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0016" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0017" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0018" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0019" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0020" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0021" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0022" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0023" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0024" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0025" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0026" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0027" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0028" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0029" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0030" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0031" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0032" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0033" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0034" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0035" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0036" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0037" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0038" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0039" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0040" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0041" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0042" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0043" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0044" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0045" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0046" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0047" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0048" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0049" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0050" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0051" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0052" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0053" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0054" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0055" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0056" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0057" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0058" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0059" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0060" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="john up0061" x="0" y="748" width="320" height="354" frameX="0" frameY="-9" frameWidth="326" frameHeight="363"/>
+	<SubTexture name="johns idle bop0000" x="320" y="748" width="410" height="377" frameX="-4" frameY="-20" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0001" x="730" y="748" width="410" height="377" frameX="-4" frameY="-20" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0002" x="1140" y="748" width="408" height="382" frameX="-5" frameY="-15" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0003" x="1548" y="748" width="408" height="382" frameX="-5" frameY="-15" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0004" x="0" y="1130" width="402" height="387" frameX="-4" frameY="-10" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0005" x="402" y="1130" width="402" height="387" frameX="-4" frameY="-10" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0006" x="804" y="1130" width="356" height="394" frameX="0" frameY="-3" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0007" x="1160" y="1130" width="352" height="394" frameX="0" frameY="-3" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0008" x="1512" y="1130" width="351" height="397" frameX="0" frameY="0" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0009" x="1512" y="1130" width="351" height="397" frameX="0" frameY="0" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0010" x="1512" y="1130" width="351" height="397" frameX="0" frameY="0" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0011" x="1512" y="1130" width="351" height="397" frameX="0" frameY="0" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0012" x="1512" y="1130" width="351" height="397" frameX="0" frameY="0" frameWidth="414" frameHeight="397"/>
+	<SubTexture name="johns idle bop0013" x="1512" y="1130" width="351" height="397" frameX="0" frameY="0" frameWidth="414" frameHeight="397"/>
+</TextureAtlas>
