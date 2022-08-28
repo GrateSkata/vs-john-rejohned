@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-330
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "johns idle",
-			"indices": []
+			"indices": [],
+			"name": "johns idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				-334
+				2,
+				-343
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "john right",
-			"indices": []
+			"indices": [],
+			"name": "john right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				60,
-				-360
+				105,
+				-380
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "john left",
-			"indices": []
+			"indices": [],
+			"name": "john left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				-360
+				-2,
+				-380
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "john up",
-			"indices": []
+			"indices": [],
+			"name": "john up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				-362
+				-10,
+				-408
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "john down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "john down"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/john",
 	"position": [
 		0,
-		0
+		-130
 	],
 	"healthicon": "john",
 	"flip_x": false,
@@ -73,6 +73,6 @@
 		-310,
 		430
 	],
-	"sing_duration": 6.1,
-	"scale": 1
+	"sing_duration": 6,
+	"scale": 1.2
 }
